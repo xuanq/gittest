@@ -1,0 +1,2 @@
+# gittest
+测试GitHub和腾讯云Linux上已有的git测试目录之间的同步
